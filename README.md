@@ -6,7 +6,10 @@ Some code references << Python for Data Analysis>> version 1.0
 Owing to a little python synatx in the 1v book is deprecated,i has modified it.(python3.5)  
 
 Run in python3.5
-## resource
+## CheatSheet
+* pandas cheat sheet [1](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)[2](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+
+## Resource
 
 directory "pydata" fork the [pydatabook](https://github.com/wesm/pydata-book)
 
