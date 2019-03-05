@@ -7,7 +7,7 @@ Owing to a little python synatx in the 1v book is deprecated,i has modified it.(
 
 Run in python3.5
 ## CheatSheet
-* pandas cheat sheet [1](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)[2](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+* pandas cheat sheet [1](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)    [2](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 
 ## Resource
 
